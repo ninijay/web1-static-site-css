@@ -14,3 +14,7 @@ Folder: svg_mathml
 - Read Mathml code, analyze it
 - Read SVG, analyze it
 - implement svg into html5 site
+
+## Exercise 3
+No Folder
+- Testing of different CSS- Selectors
