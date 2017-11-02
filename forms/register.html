@@ -41,15 +41,15 @@
             <input type="text" id="email" name="email" />
             <label for="birthday">Geburtstag:</label>
             <input type="text" id="birthday" name="birthday" />
+            <input type="hidden" id="hidden_filed" name="why_doe" value="This is some hidden value" />
             <fieldset class="radiocheckgroup">
               <legend><span>Geschlecht:</span></legend>
               <input type="radio" name="gender" id="gender_m" value="male"/> Männlich <br />
               <input type="radio" name="gender" id="gender_f" value="female"/> Weiblich <br />
               <input type="radio" name="gender" id="gender_fl" value="fluid"/> Genderfluid <br />
             </fieldset>
- 
             <label for="courses">Kurse: </label>
-            <select id="courses">
+            <select id="courses" name="kurse[]" multiple>
               <option value="cpp">C++ für Fortgeschrittene</option>
               <option value="stricken">Stricken für Hacker</option>
               <option value="fbtut">How to facebook</option>
