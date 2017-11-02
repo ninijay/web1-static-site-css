@@ -8,3 +8,9 @@ Folder for this exercise: forms
 - Compare POST and GET
 - use new html5 features
 - compare them with "html4" form
+
+## Exercise 2
+Folder: svg_mathml
+- Read Mathml code, analyze it
+- Read SVG, analyze it
+- implement svg into html5 site
