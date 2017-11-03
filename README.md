@@ -18,3 +18,7 @@ Folder: svg_mathml
 ## Exercise 3
 No Folder
 - Testing of different CSS- Selectors
+
+## Exercise 4
+Folder: flower:blog
+- Designing website with CSS
